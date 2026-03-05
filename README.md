@@ -5,12 +5,14 @@
 
 
 <div align="center">
-# [QTrack: Query-Driven Reasoning for Multi-modal MOT](https://arxiv.org/abs/2504.15404)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/context-aware-grounded-teacher-for-source/source-free-object-detection-on-cityscapes-to)](https://paperswithcode.com/sota/source-free-object-detection-on-cityscapes-to?p=context-aware-grounded-teacher-for-source)
-[![Website](https://img.shields.io/badge/website-grounded_teacher-purple)]()
-[![Demo](https://img.shields.io/badge/demo-hugginface-blue)](https://huggingface.co/papers/2504.15404)
-[![Arxiv](https://img.shields.io/badge/Arxiv-paper-red?style=plastic&logo=arxiv)](https://arxiv.org/abs/2504.15404)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
+# QTrack: Query-Driven Reasoning for Multi-modal MOT
+
+[![Paper](https://img.shields.io/badge/arXiv-2504.15404-red?logo=arxiv)](https://arxiv.org/abs/2504.15404)
+[![Demo](https://img.shields.io/badge/demo-huggingface-blue)](https://huggingface.co/papers/2504.15404)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Website](https://img.shields.io/badge/website-coming%20soon-purple)]()
+
 </div>
 
 This is the official Pytorch implementation of QTrack:
