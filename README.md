@@ -265,8 +265,8 @@ We thank the authors for making their work publicly available.
 
 ```bibtex
 @misc{ashraf2025contextawaregroundedteacher,
-      title={Context Aware Grounded Teacher for Source Free Object Detection}, 
-      author={Tajamul Ashraf and Rajes Manna and Partha Sarathi Purkayastha and Tavaheed Tariq and Janibul Bashir},
+      title={QTrack}, 
+      author={},
       year={2025},
       eprint={2504.15404},
       archivePrefix={arXiv},
